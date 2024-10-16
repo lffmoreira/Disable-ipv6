@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>Profile for enable Internet Routing throught Iphone with Vivo Provider - BY: Luiz Moreira (fontesmp@)</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>APNs</key>
+			<array>
+				<dict>
+					<key>AllowedProtocolMask</key>
+					<integer>1</integer>
+					<key>AllowedProtocolMaskInRoaming</key>
+					<integer>1</integer>
+					<key>DefaultProtocolMask</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>zap.vivo.com.br</string>
+					<key>Password</key>
+					<string>vivo</string>
+					<key>Username</key>
+					<string>vivo</string>
+				</dict>
+			</array>
+			<key>AttachAPN</key>
+			<dict>
+				<key>AllowedProtocolMask</key>
+				<integer>1</integer>
+				<key>Name</key>
+				<string>zap.vivo.com.br</string>
+				<key>Password</key>
+				<string>vivo</string>
+				<key>Username</key>
+				<string>vivo</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Configures cellular data settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Cellular</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.cellular.A7DA6FCA-314D-46A5-A6E0-CF0B3C35CD3C</string>
+			<key>PayloadType</key>
+			<string>com.apple.cellular</string>
+			<key>PayloadUUID</key>
+			<string>A7DA6FCA-314D-46A5-A6E0-CF0B3C35CD3C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Profile for enable Internet Routing throught Iphone with Vivo carrier - BY: fontesmp@</string>
+	<key>PayloadDisplayName</key>
+	<string>Disable IPV6 - Vivo</string>
+	<key>PayloadIdentifier</key>
+	<string>88665a571281-2.B0D1B453-204A-436A-8EC2-CFF2C98FA8E4</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>76E5BFD5-9B9A-445C-AF8C-B58F12C5264C</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
